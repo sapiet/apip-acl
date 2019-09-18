@@ -1,0 +1,10 @@
+admin:
+    resource: ../../src/Controller/Admin
+    type: annotation
+    prefix: /admin
+
+shop:
+    resource: ../../src/Controller/Shop
+    type: annotation
+    prefix: /shop
+
